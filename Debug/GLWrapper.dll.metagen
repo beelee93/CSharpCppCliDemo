@@ -1,0 +1,21 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly GLWrapper, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class GLWrapper.Renderer: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    Double Longitude 'get set' : 
+    Double Latitude 'get set' : 
+  Methods:
+    Draw(): PrivateScope, Public, HideBySig
+    get_Latitude(): PrivateScope, Public, HideBySig, SpecialName
+    set_Latitude(Double): PrivateScope, Public, HideBySig, SpecialName
+    get_Longitude(): PrivateScope, Public, HideBySig, SpecialName
+    set_Longitude(Double): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

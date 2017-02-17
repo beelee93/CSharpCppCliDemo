@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\bin\Debug\CSharpCppCliDemo.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\bin\Debug\CSharpCppCliDemo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\bin\Debug\CSharpCppCliDemo.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\bin\Debug\GLWrapper.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\bin\Debug\GLWrapper.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\CSharpCppCliDemo\obj\Debug\CSharpCppCliDemo.pdb

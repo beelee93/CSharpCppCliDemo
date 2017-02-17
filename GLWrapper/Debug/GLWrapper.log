@@ -1,0 +1,4 @@
+﻿  Main.cpp
+  Main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  GLWrapper.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\Debug\GLWrapper.dll
+  GLWrapper.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\CSharpCppCliDemo\Debug\GLWrapper.pdb (Partial PDB)
